@@ -1,6 +1,6 @@
 # RPA-Salary-Calculation
 
-![Untitled](https://github.com/AWESOME04/RPA-Salary-Calculation/assets/102630199/762fe97b-b5d9-4ce7-88ed-0a4eb4c2aa69)
+![Untitle](https://github.com/AWESOME04/RPA-Salary-Calculation/assets/102630199/242706bf-d958-4591-b6a5-8cae4ae85fb9)
 
 This repository contains a solution for automating the calculation of employee salaries using Robotic Process Automation (RPA).
 
