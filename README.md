@@ -6,8 +6,6 @@ This repository contains a solution for automating the calculation of employee s
 
 The solution utilizes UiPath, an RPA tool, to read employee data from the Main Sheet, calculate salaries based on hours worked, and update the Update Sheet with the calculated salaries. The code and relevant files are provided in this repository, serving as a reference for automating salary calculations in an Excel-based environment.
 
-The solution reads employee data from the Main Sheet, calculates salaries based on hours worked, and updates the Update Sheet with the calculated salaries. The provided code and files serve as a reference for automating salary calculations in an Excel-based environment.
-
 ## Table of Contents
 
     Prerequisites
