@@ -1,5 +1,7 @@
 # RPA-Salary-Calculation
 
+![Untitled](https://github.com/AWESOME04/RPA-Salary-Calculation/assets/102630199/762fe97b-b5d9-4ce7-88ed-0a4eb4c2aa69)
+
 This repository contains a solution for automating the calculation of employee salaries using Robotic Process Automation (RPA).
 
 The solution utilizes UiPath, an RPA tool, to read employee data from the Main Sheet, calculate salaries based on hours worked, and update the Update Sheet with the calculated salaries. The code and relevant files are provided in this repository, serving as a reference for automating salary calculations in an Excel-based environment.
